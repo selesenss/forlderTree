@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111827;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+}
+
+.folder {
+  font-weight: bold;
+  color: #60a5fa;
+}
+
+.file {
+  color: #d1d5db;
+}
